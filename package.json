@@ -1,5 +1,5 @@
 {
-  "name": "vue-notion",
+  "name": "vue-notion-api",
   "version": "0.0.1",
   "description": "Vue integration for Notion API",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/64robots/vue-notion.git"
+    "url": "git+https://github.com/64robots/vue-notion-api.git"
   },
   "keywords": [
     "vue",
