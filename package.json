@@ -1,0 +1,23 @@
+{
+  "name": "vue-notion",
+  "version": "0.0.1",
+  "description": "Vue integration for Notion API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/64robots/vue-notion.git"
+  },
+  "keywords": [
+    "vue",
+    "notion"
+  ],
+  "author": "64 Robots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/64robots/vue-notion/issues"
+  },
+  "homepage": "https://github.com/64robots/vue-notion#readme"
+}
